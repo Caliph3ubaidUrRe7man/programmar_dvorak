@@ -82,19 +82,39 @@
       <ID>id_c296b5df3dc126e219e0173fcbc1baec</ID>
       <FullPath>D:\MEGA\programmar_dvorak\source\..\LICENSE.md</FullPath>
     </FileState>
+    <FileState>
+      <ID>id_3794d500388c13966eb9e7d3645d792f</ID>
+      <FullPath>D:\MEGA\programmar_dvorak\source\help\programmar_dvorak.php</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_9d0e5b4e161ab742beb7baaa3ee15d9d</ID>
+      <FullPath>D:\MEGA\programmar_dvorak\source\help\typing-guide-desktop.png</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_9d1a6340637caadc1e2a5439ac5c7082</ID>
+      <FullPath>D:\MEGA\programmar_dvorak\source\help\typing-guide-desktop-alternate.png</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_51f4bf8df7b33ae5f2bedaca725a7b5e</ID>
+      <FullPath>D:\MEGA\programmar_dvorak\source\help\typing-guide-desktop-alternate-shifted.png</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_2ba650c0122ca4db165e628b86191042</ID>
+      <FullPath>D:\MEGA\programmar_dvorak\source\help\typing-guide-desktop-shifted.png</FullPath>
+    </FileState>
   </FileStates>
   <MRU>
     <File>
       <ID>id_MRU0</ID>
-      <Filename>programmar_dvorak.kmn</Filename>
-      <FileType>.kmn</FileType>
-      <FullPath>D:\MEGA\programmar_dvorak\source\programmar_dvorak.kmn</FullPath>
-    </File>
-    <File>
-      <ID>id_MRU1</ID>
       <Filename>programmar_dvorak.kps</Filename>
       <FileType>.kps</FileType>
       <FullPath>D:\MEGA\programmar_dvorak\source\programmar_dvorak.kps</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU1</ID>
+      <Filename>programmar_dvorak.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>D:\MEGA\programmar_dvorak\source\programmar_dvorak.kmn</FullPath>
     </File>
     <File>
       <ID>id_MRU2</ID>

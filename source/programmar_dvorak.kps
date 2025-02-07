@@ -60,6 +60,36 @@
       <CopyLocation>0</CopyLocation>
       <FileType>.md</FileType>
     </File>
+    <File>
+      <Name>help\programmar_dvorak.php</Name>
+      <Description>File programmar_dvorak.php</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.php</FileType>
+    </File>
+    <File>
+      <Name>help\typing-guide-desktop.png</Name>
+      <Description>File typing-guide-desktop.png</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.png</FileType>
+    </File>
+    <File>
+      <Name>help\typing-guide-desktop-alternate.png</Name>
+      <Description>File typing-guide-desktop-alternate.png</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.png</FileType>
+    </File>
+    <File>
+      <Name>help\typing-guide-desktop-alternate-shifted.png</Name>
+      <Description>File typing-guide-desktop-alternate-shifted.png</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.png</FileType>
+    </File>
+    <File>
+      <Name>help\typing-guide-desktop-shifted.png</Name>
+      <Description>File typing-guide-desktop-shifted.png</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.png</FileType>
+    </File>
   </Files>
   <Keyboards>
     <Keyboard>
